@@ -1,4 +1,4 @@
-Sitemap: https://smt.netlify.app/sitemap.xml
+Sitemap: https://synergy-marketing-tech.netlify.app/sitemap.xml
 User-agent: rogerbot
 Disallow: /
 User-agent: dotbot
